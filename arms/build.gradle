@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'  //添加这两行
-group = 'com.ligenju.java'  //GitHub昵称
+group = 'com.github.ligenju'  //GitHub昵称
 android {
     compileSdkVersion rootProject.ext.android["compileSdkVersion"]
     buildToolsVersion rootProject.ext.android["buildToolsVersion"]
